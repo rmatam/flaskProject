@@ -10,7 +10,7 @@ def hello_world():  # put application's code here
 
 @app.route('/index')
 def index():  # put application's code here
-    return 'Welcome to the course!!!'
+    return 'Welcome to the course!>!!'
 
 
 if __name__ == '__main__':
